@@ -9,5 +9,4 @@
 5. Standard 3D views with orientation cube
 
 ## Demo
-https://glb-viewer.blogspot.com/
-"# Orbital" 
+https://nodes-tech.ru/webvr/orbital
